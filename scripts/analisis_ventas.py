@@ -1,3 +1,4 @@
+# Revisión final QA - Luis (P3)
 
 # KAN-3: Revisión QA y mejora de documentación
 # Autor: Luis (P3 - Revisor y QA)
@@ -30,3 +31,5 @@ plt.legend()
 plt.tight_layout()
 plt.savefig("resultados/grafico_ventas.png")
 print("Gráfico guardado en /resultados/grafico_ventas.png ✓")
+
+# QA final - Luis P3
