@@ -1,3 +1,4 @@
+# Revisión final QA - Luis (P3)
 
 # KAN-2: Script de análisis estadístico de ventas
 # Autor: Paco (P2 - Desarrollador Técnico)
@@ -23,3 +24,5 @@ plt.legend()
 plt.tight_layout()
 plt.savefig("resultados/grafico_ventas.png")
 print("Gráfico guardado en /resultados/grafico_ventas.png ✓")
+
+# QA final - Luis P3
